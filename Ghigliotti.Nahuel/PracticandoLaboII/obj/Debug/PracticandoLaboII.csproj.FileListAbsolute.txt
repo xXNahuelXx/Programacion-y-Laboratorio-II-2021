@@ -1,0 +1,7 @@
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Proyectos\Ghigliotti.Nahuel\PracticandoLaboII\bin\Debug\PracticandoLaboII.exe.config
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Proyectos\Ghigliotti.Nahuel\PracticandoLaboII\bin\Debug\PracticandoLaboII.exe
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Proyectos\Ghigliotti.Nahuel\PracticandoLaboII\bin\Debug\PracticandoLaboII.pdb
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Proyectos\Ghigliotti.Nahuel\PracticandoLaboII\obj\Debug\PracticandoLaboII.csprojAssemblyReference.cache
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Proyectos\Ghigliotti.Nahuel\PracticandoLaboII\obj\Debug\PracticandoLaboII.csproj.CoreCompileInputs.cache
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Proyectos\Ghigliotti.Nahuel\PracticandoLaboII\obj\Debug\PracticandoLaboII.exe
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Proyectos\Ghigliotti.Nahuel\PracticandoLaboII\obj\Debug\PracticandoLaboII.pdb

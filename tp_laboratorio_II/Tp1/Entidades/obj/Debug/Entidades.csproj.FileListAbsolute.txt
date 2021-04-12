@@ -1,0 +1,6 @@
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\Entidades\bin\Debug\Entidades.dll
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\Entidades\bin\Debug\Entidades.pdb
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\Entidades\obj\Debug\Entidades.dll
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\Entidades\obj\Debug\Entidades.pdb

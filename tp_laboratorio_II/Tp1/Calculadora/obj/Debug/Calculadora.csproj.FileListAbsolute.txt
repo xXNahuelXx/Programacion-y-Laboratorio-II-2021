@@ -1,0 +1,10 @@
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\Calculadora\bin\Debug\Calculadora.exe
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\Calculadora\bin\Debug\Calculadora.pdb
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\Calculadora\bin\Debug\Entidades.dll
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\Calculadora\bin\Debug\Entidades.pdb
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\Calculadora\obj\Debug\Calculadora.csproj.CopyComplete
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\Calculadora\obj\Debug\Calculadora.exe
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\Calculadora\obj\Debug\Calculadora.pdb

@@ -1,0 +1,6 @@
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Proyectos\Ghigliotti.Nahuel\PracticandoLaboII\bin\Release\PracticandoLaboII.exe.config
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Proyectos\Ghigliotti.Nahuel\PracticandoLaboII\bin\Release\PracticandoLaboII.exe
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Proyectos\Ghigliotti.Nahuel\PracticandoLaboII\bin\Release\PracticandoLaboII.pdb
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Proyectos\Ghigliotti.Nahuel\PracticandoLaboII\obj\Release\PracticandoLaboII.csproj.CoreCompileInputs.cache
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Proyectos\Ghigliotti.Nahuel\PracticandoLaboII\obj\Release\PracticandoLaboII.exe
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Proyectos\Ghigliotti.Nahuel\PracticandoLaboII\obj\Release\PracticandoLaboII.pdb
