@@ -12,7 +12,9 @@ namespace Entidades
         public static double Operar(Numero num1,Numero num2,string operador)
         {
             double resultado;
-            char operadoraValidar = Char.Parse(operador);
+            //char operadoraValidar = Char.Parse(operador);
+            char operadoraValidar;
+            char.TryParse(operador, out operadoraValidar);
 
             switch (ValidarOperador(operadoraValidar))
             {
@@ -20,13 +22,13 @@ namespace Entidades
                     resultado = num1 + num2;
                     break;
                 case "-":
-                    resultado = num1 + num2;
+                    resultado = num1 - num2;
                     break;
                 case "*":
-                    resultado = num1 + num2;
+                    resultado = num1 * num2;
                     break;
                 case "/":
-                    resultado = num1 + num2;
+                    resultado = num1 / num2;
                     break;
                 default:
                     resultado = num1 + num2;

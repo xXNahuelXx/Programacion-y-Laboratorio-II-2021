@@ -47,12 +47,13 @@ namespace Entidades
 
             foreach(char caracterNumericoaValidar in strNumero)
             {
-                if(caracterNumericoaValidar >= '0' || caracterNumericoaValidar <= '9')
+                if(caracterNumericoaValidar > '0' || caracterNumericoaValidar < '9')
                 {
                     validado = validado + caracterNumericoaValidar.ToString();
                     if(i==strNumero.Length)
                     {
-                        retorno = double.Parse(validado);
+                        //retorno = double.Parse(validado);
+                        double.TryParse(validado, out retorno);
                     }
                 }
                 else
@@ -62,7 +63,6 @@ namespace Entidades
                 }
                 i++;
             }
-            
             return retorno;
         }
 

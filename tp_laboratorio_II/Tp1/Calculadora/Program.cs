@@ -11,7 +11,6 @@ namespace Calculadora
     {
         static void Main(string[] args)
         {
-  
             Console.ReadKey(true);
         }
     }

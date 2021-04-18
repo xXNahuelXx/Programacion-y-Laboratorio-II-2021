@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{67F928CC-D62E-44D3-A790-AB3F199C00BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiCalculadora", "MiCalculadora\MiCalculadora.csproj", "{618FCF6D-3861-4A25-8823-5E2C2488CF80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{67F928CC-D62E-44D3-A790-AB3F199C00BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67F928CC-D62E-44D3-A790-AB3F199C00BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67F928CC-D62E-44D3-A790-AB3F199C00BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{618FCF6D-3861-4A25-8823-5E2C2488CF80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{618FCF6D-3861-4A25-8823-5E2C2488CF80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{618FCF6D-3861-4A25-8823-5E2C2488CF80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{618FCF6D-3861-4A25-8823-5E2C2488CF80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
