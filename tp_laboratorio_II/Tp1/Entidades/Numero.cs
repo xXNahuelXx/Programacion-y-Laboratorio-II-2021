@@ -13,6 +13,9 @@ namespace Entidades
         #endregion
 
         #region Propiedades
+        /// <summary>
+        /// Setea el numero que valida invocando a la funcion ValidarNumero.
+        /// </summary>
         public string SetNumero 
         {
             set
@@ -23,15 +26,26 @@ namespace Entidades
         #endregion
 
         #region Constructores
+        /// <summary>
+        /// Constructor que setea un valor recibido.
+        /// </summary>
+        /// <param name="numero">Numero a asignar</param>
         public Numero(double numero)
         {
             SetNumero = numero.ToString();
         }
 
+        /// <summary>
+        /// Constructor por defecto que asigna el numero 0.
+        /// </summary>
         public Numero():this(0)
         {
         }
-        
+
+        /// <summary>
+        /// Constructor que setea el valor recibido en string
+        /// </summary>
+        /// <param name="numeroString">Numero a asignar</param>
         public Numero(string numeroString)
         {
             SetNumero = numeroString;
@@ -39,6 +53,11 @@ namespace Entidades
         #endregion
 
         #region Validaciones
+        /// <summary>
+        /// Valida que lo recibido sea numerico
+        /// </summary>
+        /// <param name="strNumero">cadena a validar</param>
+        /// <returns>Retorna el numero validado, en caso de que sea invalido retorna 0</returns>
         private double ValidarNumero(string strNumero)
         {
             double retorno=0;
@@ -52,8 +71,7 @@ namespace Entidades
                     validado = validado + caracterNumericoaValidar.ToString();
                     if(i==strNumero.Length)
                     {
-                        //retorno = double.Parse(validado);
-                        double.TryParse(validado, out retorno);
+                        double.TryParse(validado.Replace(".", ","), out retorno);
                     }
                 }
                 else
@@ -66,6 +84,11 @@ namespace Entidades
             return retorno;
         }
 
+        /// <summary>
+        /// Valida que la cadena recibida solo contenga 0 y 1 para saber si es binario
+        /// </summary>
+        /// <param name="binario">cadena a validar</param>
+        /// <returns>Retorna true si es binario, false si no lo es</returns>
         private bool EsBinario(string binario)
         {
             bool retorno = false;
@@ -86,6 +109,11 @@ namespace Entidades
         #endregion
 
         #region Metodos
+        /// <summary>
+        /// Realiza la conversion de un numero binario a decimal
+        /// </summary>
+        /// <param name="binario">numero a convertir</param>
+        /// <returns>Retorna el numero convertido y en caso de error retorna Valor Invalido</returns>
         public string BinarioDecimal(string binario)
         {
             string retorno = null;
@@ -112,6 +140,11 @@ namespace Entidades
             return retorno;
         }
 
+        /// <summary>
+        /// Realiza la conversion de un numero decimal a binario
+        /// </summary>
+        /// <param name="numeroDecimal">numero a convertir</param>
+        /// <returns>Retorna el numero convertido y en caso de error retorna Valor Invalido</returns>
         public string DecimalBinario(double numeroDecimal)
         {
             String cadena = null;
@@ -138,6 +171,11 @@ namespace Entidades
             return cadena;
         }
 
+        /// <summary>
+        /// Realiza la conversion de un numero decimal a binario
+        /// </summary>
+        /// <param name="numeroString">numero a convertir</param>
+        /// <returns>Retorna el numero convertido y en caso de error retorna Valor Invalido</returns>
         public string DecimalBinario(string numeroString)
         {
             String cadena = null;
@@ -155,21 +193,45 @@ namespace Entidades
         #endregion
 
         #region Sobrecarga de Operadores
+        /// <summary>
+        /// Sobrecarga del operador + para que pueda sumar 2 objetos de tipo Numero
+        /// </summary>
+        /// <param name="n1">Objeto de tipo Numero</param>
+        /// <param name="n2">Objeto de tipo Numero</param>
+        /// <returns>Retorna la suma de los numeros</returns>
         public static double operator +(Numero n1, Numero n2)
         {
             return n1.numero + n2.numero;
         }
 
+        /// <summary>
+        /// Sobrecarga del operador - para poder restar 2 objetos de tipo Numero
+        /// </summary>
+        /// <param name="n1">Objeto de tipo Numero</param>
+        /// <param name="n2">Objeto de tipo Numero</param>
+        /// <returns>Retorna la resta de los numeros</returns>
         public static double operator -(Numero n1,Numero n2)
         {
             return n1.numero - n2.numero;
         }
 
+        /// <summary>
+        /// Sobrecarga del operador * para que multiplique 2 objetos de tipo numero.
+        /// </summary>
+        /// <param name="n1">Objeto de tipo Numero</param>
+        /// <param name="n2">Objeto de tipo Numero</param>
+        /// <returns>Retorna la multiplicacion de los numeros</returns>
         public static double operator *(Numero n1, Numero n2)
         {
             return n1.numero * n2.numero;
         }
 
+        /// <summary>
+        /// Sobrecarga del operador / para dividir 2 objetos de tipo Numero
+        /// </summary>
+        /// <param name="n1">Objeto de tipo Numero</param>
+        /// <param name="n2">Objeto de tipo Numero</param>
+        /// <returns>Retorna la division de los numeros, en caso de que el segundo numero sea 0, retorna el valor minimo de un Double</returns>
         public static double operator /(Numero n1, Numero n2)
         {
             double retorno;

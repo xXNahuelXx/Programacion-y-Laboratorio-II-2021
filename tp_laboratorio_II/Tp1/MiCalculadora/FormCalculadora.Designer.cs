@@ -84,9 +84,9 @@ namespace MiCalculadora
             // 
             // btnCerrar
             // 
-            this.btnCerrar.Location = new System.Drawing.Point(214, 79);
+            this.btnCerrar.Location = new System.Drawing.Point(226, 79);
             this.btnCerrar.Name = "btnCerrar";
-            this.btnCerrar.Size = new System.Drawing.Size(101, 32);
+            this.btnCerrar.Size = new System.Drawing.Size(89, 32);
             this.btnCerrar.TabIndex = 5;
             this.btnCerrar.Text = "Cerrar";
             this.btnCerrar.UseVisualStyleBackColor = true;
@@ -103,9 +103,9 @@ namespace MiCalculadora
             // txtNumero2
             // 
             this.txtNumero2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtNumero2.Location = new System.Drawing.Point(214, 37);
+            this.txtNumero2.Location = new System.Drawing.Point(226, 38);
             this.txtNumero2.Name = "txtNumero2";
-            this.txtNumero2.Size = new System.Drawing.Size(101, 26);
+            this.txtNumero2.Size = new System.Drawing.Size(89, 26);
             this.txtNumero2.TabIndex = 2;
             // 
             // cmbOperador
@@ -124,18 +124,19 @@ namespace MiCalculadora
             // 
             // lblResultado
             // 
-            this.lblResultado.AutoSize = true;
             this.lblResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblResultado.Location = new System.Drawing.Point(268, 9);
+            this.lblResultado.Location = new System.Drawing.Point(185, 9);
             this.lblResultado.Name = "lblResultado";
-            this.lblResultado.Size = new System.Drawing.Size(0, 20);
+            this.lblResultado.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.lblResultado.Size = new System.Drawing.Size(130, 20);
             this.lblResultado.TabIndex = 8;
+            this.lblResultado.TextAlign = System.Drawing.ContentAlignment.TopRight;
             // 
             // FormCalculadora
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(340, 177);
+            this.ClientSize = new System.Drawing.Size(336, 177);
             this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.cmbOperador);
             this.Controls.Add(this.txtNumero2);
