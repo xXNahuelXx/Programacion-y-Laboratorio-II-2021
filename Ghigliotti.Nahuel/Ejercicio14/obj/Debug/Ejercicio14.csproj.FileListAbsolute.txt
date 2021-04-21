@@ -1,7 +1,0 @@
-D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Proyectos\Ghigliotti.Nahuel\Ejercicio14\bin\Debug\Ejercicio14.exe.config
-D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Proyectos\Ghigliotti.Nahuel\Ejercicio14\bin\Debug\Ejercicio14.exe
-D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Proyectos\Ghigliotti.Nahuel\Ejercicio14\bin\Debug\Ejercicio14.pdb
-D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Proyectos\Ghigliotti.Nahuel\Ejercicio14\obj\Debug\Ejercicio14.csprojAssemblyReference.cache
-D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Proyectos\Ghigliotti.Nahuel\Ejercicio14\obj\Debug\Ejercicio14.csproj.CoreCompileInputs.cache
-D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Proyectos\Ghigliotti.Nahuel\Ejercicio14\obj\Debug\Ejercicio14.exe
-D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Proyectos\Ghigliotti.Nahuel\Ejercicio14\obj\Debug\Ejercicio14.pdb
