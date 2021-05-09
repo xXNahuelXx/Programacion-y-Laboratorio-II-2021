@@ -11,3 +11,16 @@ D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo\Programacion-y-
 D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
 D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\MiCalculadora\obj\Debug\MiCalculadora.exe
 D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo Tps\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo Tps\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\MiCalculadora\bin\Debug\MiCalculadora.exe
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo Tps\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo Tps\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\MiCalculadora\bin\Debug\Entidades.dll
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo Tps\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\MiCalculadora\bin\Debug\Entidades.pdb
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo Tps\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo Tps\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo Tps\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo Tps\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo Tps\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo Tps\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo Tps\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\MiCalculadora\obj\Debug\MiCalculadora.exe
+D:\Nahu\Universidad\3 - Segundo Cuatrimestre\Labo y Prog II\Repo Tps\Programacion-y-Laboratorio-II-2021\tp_laboratorio_II\Tp1\MiCalculadora\obj\Debug\MiCalculadora.pdb
